@@ -1,0 +1,25 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: rgb(99, 99, 99);
+}
+
+body {
+  background-color: rgb(245, 245, 245);
+}
+
+h1 {
+  -webkit-text-stroke: 1px grey;
+  color: rgb(245, 245, 245);
+  text-align: center;
+  font-size: 3em;
+}
+
+.img {
+    width: 100px; /* You can set the dimensions to whatever you want */
+    height: 100px;
+    object-fit: cover;
+
+}
